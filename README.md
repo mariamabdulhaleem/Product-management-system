@@ -4,7 +4,8 @@ This project is a web-based application built using HTML, CSS, and JavaScript. I
 
 
 
-# Check out the live demo of the project [here](#[https://mariamabdulhaleem.github.io/Product-management-system/]).
+# Check out the live demo of the project: 
+https://mariamabdulhaleem.github.io/Product-management-system/
 
 ## Features
 
